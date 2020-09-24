@@ -1,9 +1,9 @@
 
     
-# Here will be my title
+# ReadMe Generator
 
 ## Description
-here my description
+This application is a tool that will quickly generate a ReadMe template with a license badge given the user's text inputs.
 ***
 
 ## Table of Contents
@@ -18,21 +18,21 @@ here my description
 ***
 
 ## Installation
-gwegge
+
 
 ## Usage
-eggegegrh
+
 
 ## License
-[[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributing
-wgegh
+If you would like to contribute to this project, please reach me at judeclark2019@gmail.com.
 
 ## Tests
-ehoijeh
+
 
 ## Questions
-Please reach out to Jude Clark at owiegjeiogj.
+Please reach out to Jude Clark at Please reach out Jude Clark at judeclark2019@gmail.com..
     
     
