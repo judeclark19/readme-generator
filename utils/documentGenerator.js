@@ -4,6 +4,7 @@ function documentGenerator (userInput) {
     return `
     
 # ${userInput.Title}
+${licenseBadges(userInput)}
 
 ## Description
 ${userInput.Description}
