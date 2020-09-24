@@ -30,7 +30,8 @@ ${userInput.Usage}
 ${licenseBadges(userInput)}
 
 ## Contributing
-${userInput.Contributing}
+If you would like to contribute to this project, please [add me on GitHub](https://github.com/${userInput.Contributing}).
+
 
 ## Tests
 ${userInput.Tests}

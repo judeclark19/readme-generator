@@ -44,7 +44,7 @@ const questions = [
   {
     type: "input",
     name: "Contributing",
-    message: "Enter instructions for contributing to your project:",
+    message: "Enter your GitHub username:",
   },
   {
     type: "input",
