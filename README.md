@@ -18,9 +18,7 @@ This application is a tool that will quickly generate a ReadMe template with a l
 ## Installation
 
 ### Installation and usage walkthrough video:
-<figure class="video_container">
-  <iframe src="https://youtu.be/1z_F-ch6yEg" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+[![ReadMe Generator Demo Video](http://img.youtube.com/vi/1z_F-ch6yEg/0.jpg)](http://www.youtube.com/watch?v=1z_F-ch6yEg "ReadMe Generator Demo")
 
 1. Download the files in [this repository](https://github.com/judeclark19/readme-generator).
 2. Open the folder in VS Code.
