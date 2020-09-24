@@ -15,17 +15,20 @@ This application is a tool that will quickly generate a ReadMe template with a l
 
 ***
 
-## Installation
+## Installation and Usage
 
-### Installation and usage walkthrough video:
-[![ReadMe Generator Demo Video](http://img.youtube.com/vi/1z_F-ch6yEg/0.jpg)](http://www.youtube.com/watch?v=1z_F-ch6yEg "ReadMe Generator Demo")
+### Walkthrough video (02:26)
+[![ReadMe Generator Demo Video](./assets/Walthrough_vid_thumb.png)](http://www.youtube.com/watch?v=1z_F-ch6yEg "ReadMe Generator Demo")
+Click thumbnail above to be redirected to YouTube.
 
+
+### Installation steps
 1. Download the files in [this repository](https://github.com/judeclark19/readme-generator).
 2. Open the folder in VS Code.
 3. Run terminal in VS Code (Terminal > New Terminal).
 4. Make sure your terminal is targeting the current directory, and then run "npm install".
 
-## Usage
+#### Usage steps
 1. Run your terminal and make sure it is targeting the current directory.
 2. Run "node index.js"
 3. Answer the subsequent prompts in the terminal.
