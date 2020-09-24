@@ -8,8 +8,7 @@ This application is a tool that will quickly generate a ReadMe template with bad
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)]
+* [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)

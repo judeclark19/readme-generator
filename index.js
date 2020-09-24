@@ -38,7 +38,7 @@ const questions = [
       "Apache",
       "MIT",
       "Boost Software License",
-      "Unilicense",
+      "Unlicense",
     ],
   },
   {
