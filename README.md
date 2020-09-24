@@ -18,7 +18,7 @@ This application is a tool that will quickly generate a ReadMe template with a l
 ## Installation and Usage
 
 ### Walkthrough video (02:26)
-[![ReadMe Generator Demo Video](./assets/Walthrough_vid_thumb.png)](http://www.youtube.com/watch?v=1z_F-ch6yEg "ReadMe Generator Demo")
+[![ReadMe Generator Demo Video](./assets/Walthrough_vid_thumb.png)](https://youtu.be/JBvDkImVgfU "ReadMe Generator Demo")
 Click thumbnail above to be redirected to YouTube.
 
 
