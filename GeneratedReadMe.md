@@ -1,7 +1,9 @@
-# ReadMe Generator
+
+    
+# Title Of The Year
 
 ## Description
-This application is a tool that will quickly generate a ReadMe template with badges given the user's text inputs.
+A proper description of this app is such:
 ***
 
 ## Table of Contents
@@ -9,7 +11,7 @@ This application is a tool that will quickly generate a ReadMe template with bad
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
-* [License](#license)]
+* [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
 * [Questions](#questions)
@@ -17,24 +19,24 @@ This application is a tool that will quickly generate a ReadMe template with bad
 ***
 
 ## Installation
-(input here)
+downlaod things
 
 ## Usage
-(input here)
+use things
 
 ## Credits
-(input here)
+undefined
 
 ## License
-(input here)
+
 
 ## Contributing
-(input here)
+oops
 
 ## Tests
-(input here)
+tests like
 
 ## Questions
-(input here)
-
-
+Please reach out to Jude Clark at judeclark2019@gmail.com.
+    
+    
