@@ -1,6 +1,6 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
-const documentGenerator = require("./documentGenerator.js");
+const documentGenerator = require("./utils/documentGenerator.js");
 
 // array of questions for user
 const questions = [
