@@ -1,3 +1,5 @@
+const licenseBadges = require("./licenseBadges");
+
 function documentGenerator (userInput) {
     return `
     
@@ -11,7 +13,6 @@ ${userInput.Description}
 
 * [Installation](#installation)
 * [Usage](#usage)
-* [Credits](#credits)
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
@@ -25,11 +26,8 @@ ${userInput.Installation}
 ## Usage
 ${userInput.Usage}
 
-## Credits
-${userInput.Credits}
-
 ## License
-${userInput.License}
+${licenseBadges(userInput)}
 
 ## Contributing
 ${userInput.Contributing}
