@@ -16,9 +16,9 @@ This application is a tool that will quickly generate a ReadMe template with a l
 ***
 
 ## Installation
-1. Download the files in [this repository](http://linkhere.com).
+1. Download the files in [this repository](https://github.com/judeclark19/readme-generator).
 2. Open the folder in VS Code.
-3. Run terminal in VS Code.
+3. Run terminal in VS Code (Terminal > New Terminal).
 4. Make sure your terminal is targeting the current directory, and then run "npm install".
 
 ## Usage
