@@ -30,7 +30,7 @@ const questions = [
     message: "Enter usage instructions:",
   },
   {
-    type: "checkbox",
+    type: "list",
     name: "License",
     message: "Choose a license for your ReadMe:",
     choices: [

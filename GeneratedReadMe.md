@@ -1,9 +1,9 @@
 
     
-# ahwjeowghi
+# ReadMe Generator
 
 ## Description
-ehwjwehijeh
+This application is a tool that will quickly generate a ReadMe template with a license badge given the user's text inputs.
 ***
 
 ## Table of Contents
@@ -18,21 +18,21 @@ ehwjwehijeh
 ***
 
 ## Installation
-hwjoiehjh
+
 
 ## Usage
-ehjrhoiejh
+
 
 ## License
-[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributing
-iowhje
+If you would like to contribute to this project, please reach me at judeclark2019@gmail.com.
 
 ## Tests
-ewgjioeg
+
 
 ## Questions
-Please reach out to wpgjkegeg at gewoijh.
+Please reach out to Jude Clark at Please reach out Jude Clark at judeclark2019@gmail.com..
     
     
