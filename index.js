@@ -64,7 +64,7 @@ function init() {
     .prompt(questions)
     .then((userInput) => {
     //   console.log(userInput);
-      fs.writeFile("GeneratedReadMe.md", documentGenerator(), function (err) {
+      fs.writeFile("GeneratedReadMe.md", documentGenerator(userInput), function (err) {
         if (err) throw err;
         console.log("New file successfully written.");
       });
