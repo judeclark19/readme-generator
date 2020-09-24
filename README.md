@@ -6,8 +6,8 @@ This application is a tool that will quickly generate a ReadMe template with a l
 
 ## Table of Contents
 
-* [Installation](#installation)
-* [Usage](#usage)
+* [Installation](#installation-and-usage)
+* [Usage](#usage-steps)
 * [License](#license)
 * [Contributing](#contributing)
 * [Tests](#tests)
