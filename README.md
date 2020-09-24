@@ -38,7 +38,7 @@ Click thumbnail above to be redirected to YouTube.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributing
-If you would like to contribute to this project, please reach me at judeclark2019@gmail.com.
+If you would like to contribute to this project, please [add me on GitHub](https://github.com/judeclark19).
 
 ## Questions
 Please reach out Jude Clark at judeclark2019@gmail.com.
